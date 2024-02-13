@@ -19,7 +19,6 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   },
-  "homepage": "https://tomu-fujikawa.github.io/tomu-frontend-design-hackathon-2024-spring/",
   "eslintConfig": {
     "extends": [
       "react-app",
@@ -40,5 +39,6 @@
   },
   "devDependencies": {
     "gh-pages": "^6.1.1"
-  }
+  },
+  "homepage": "https://tomu-fujikawa.github.io/tomu-frontend-design-hackathon-2024-spring/"
 }
