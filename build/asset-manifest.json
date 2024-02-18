@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/tomu-frontend-design-hackathon-2024-spring/static/css/main.109955ac.css",
+    "main.js": "/tomu-frontend-design-hackathon-2024-spring/static/js/main.0a471843.js",
+    "index.html": "/tomu-frontend-design-hackathon-2024-spring/index.html",
+    "main.109955ac.css.map": "/tomu-frontend-design-hackathon-2024-spring/static/css/main.109955ac.css.map",
+    "main.0a471843.js.map": "/tomu-frontend-design-hackathon-2024-spring/static/js/main.0a471843.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.109955ac.css",
+    "static/js/main.0a471843.js"
+  ]
+}
